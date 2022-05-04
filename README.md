@@ -2,7 +2,7 @@
 
 I'm a frontend developer at @StartupCentrum. Currently working with Nuxt2/3 with typescript.
 
-Also photography is my favourite hobby. And i'm a huge Formula 1 fan.
+Also photography and racing simulations are my favourite hobbies. And i'm a huge Formula 1(Redbull Racing/MV1) fan :)
 
 in shortly...
 
