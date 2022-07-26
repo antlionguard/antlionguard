@@ -1,6 +1,6 @@
 👋 Hi, I’m @antlionguard
 
-I'm a frontend developer at @StartupCentrum. Currently working with Nuxt2/3 and typescript.
+I'm a frontend developer at @StartupCentrum. Currently working with Nuxt2/3 and combined with typescript.
 
 Also photography and racing simulations are my favourite hobbies. And i'm a huge Formula 1(Redbull Racing/MV1) fan :)
 
